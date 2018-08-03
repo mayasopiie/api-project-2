@@ -1,0 +1,17 @@
+{
+  "name": "api-project-2",
+  "version": "1.0.0",
+  "description": "My 2nd API project using Node.JS and Express.JS. This project contains 6 levels.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "express.js",
+    "api"
+  ],
+  "author": "Maya Sopiah Lubis <mayasopie275@gmail.com>",
+  "license": "ISC"
+}
