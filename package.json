@@ -4,7 +4,10 @@
   "description": "My 2nd API project using Node.JS and Express.JS. This project contains 6 levels.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "mon": "nodemon index",
+    "dev": "node-dev index",
+    "test": "node test"
   },
   "keywords": [
     "javascript",
@@ -13,5 +16,21 @@
     "api"
   ],
   "author": "Maya Sopiah Lubis <mayasopie275@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "file-system": "^2.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayasopiie/api-project-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mayasopiie/api-project-2/issues"
+  },
+  "homepage": "https://github.com/mayasopiie/api-project-2#readme"
 }
