@@ -1,0 +1,21 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "cityName": "Kota Padang"
+    },
+    {
+      "id": 2,
+      "cityName": "Kota Solok"
+    },
+    {
+      "id": 3,
+      "text": "Kota Bukittinggi"
+    },
+    {
+      "id": 4,
+      "text": "Kota Bukittinggi"
+    }
+  ],
+  "dataCounter": 4
+}
